@@ -7,4 +7,9 @@
     --cor-de-fundo:#EAC89D;
     --font: "Unlock", serif;
 }
+body{
+    background-color:var(--cor-principal);
+    color: var(--cor-texto);
+    font-family: var(--font);
+}
 
