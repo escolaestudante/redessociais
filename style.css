@@ -12,4 +12,7 @@ body {
     background-color: var(--cor-principal);
     color: var(--cor-texto);
     font-family: var(--font);
+    height: 100vh;
+    margin: 0;
+    
 }
