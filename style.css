@@ -20,23 +20,27 @@ body {
     background-color: var(--cor-secundaria);
     text-align: center;
 }
-.cabecalho_titulo{
+
+.cabecalho_titulo {
     font-size: 2rem;
     color: var(--cor-texto);
     font-weight: 700;
 }
-nav{
+
+nav {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     font-weight: 400;
 }
-nav a{
+
+nav a {
     text-decoration: none;
     color: var(--cor-texto);
-    margin:0 2rem 1rem 0;
+    margin: 0 2rem 1rem 0;
     font-size: 1.2rem;
 }
-nav:hover{
+
+nav:hover {
     text-decoration: underline;
     transform: scale(1.90);
     transition: transform 0.1s;
