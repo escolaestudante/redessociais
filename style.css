@@ -48,7 +48,7 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
-    transform: scale(1.90);
+    transform: scale(1);
     transition: transform 0.1s;
 }
 footer{
